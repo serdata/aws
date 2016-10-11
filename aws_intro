@@ -8,3 +8,8 @@ SimpleDB: real-time lookup and querying of structured data
 Relational Database Service(RDS):Setup,operate and scale a relational database in the cloud.
 Elastic MapReduce: a hosted Hadoop framework running on EC2 and S3 with JobFlows.
 VPC:Extend corporate network into a private cloud contained within AWS. IPSec tunnel mode create secure connection.
+--------------------------
+Elasticity: 
+
+Scale-Up approach: investing powerful and larger computers.
+Scale-out approach: investing infrastructure in small chuncks.
