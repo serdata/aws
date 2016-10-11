@@ -1,0 +1,5 @@
+Cloud Watch: Operational Performance Monitor
+Auto-Scaling: Set up capacity according to Cloud Watch
+Elastic Load Balancer(ELB): Distribute incoming traffic
+Elastic Block Storage(EBS): Network attached persistent storage to EC2
+Simple Storage Service(S3):Point-in-time consistent snapshots of EBS volumes
